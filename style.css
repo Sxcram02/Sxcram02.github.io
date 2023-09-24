@@ -1,0 +1,11 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --Federal-Blue: #0D1457;
+    --Battleship-Gray: #979B8D;
+    --Jonquil: #F9C80E;
+}
