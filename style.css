@@ -9,3 +9,11 @@
     --Battleship-Gray: #979B8D;
     --Jonquil: #F9C80E;
 }
+
+p {
+    font-family: 'Rubik', sans-serif;
+}
+
+h1, h2, h3, h4 {
+    font-family: 'Merriweather', serif;
+}
